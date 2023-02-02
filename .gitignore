@@ -1,0 +1,11 @@
+*.pth
+*_torch.py
+*.params
+experiment*/
+office-home*/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+.idea/
+.DS_Store
